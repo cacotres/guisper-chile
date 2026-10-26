@@ -1,0 +1,30 @@
+# Modelos pesados (> 100 MB rechazados por GitHub)
+*.bin
+*.pt
+*.onnx
+
+# Audios temporales y grabaciones
+*.wav
+*.mp3
+*.m4a
+temp_*.wav
+
+# Archivos de log y datos personales
+historial_dictado.txt
+*.log
+
+# Entornos virtuales y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
