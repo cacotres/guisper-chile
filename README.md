@@ -30,8 +30,8 @@
 
 1. **Clona este repositorio** o descárgalo como ZIP:
    ```bash
-   git clone https://github.com/tu-usuario/Whisper-Flow.git
-   cd Whisper-Flow
+   git clone https://github.com/cacotres/guisper-chile.git
+   cd guisper-chile
    ```
 2. **Haz doble clic en `instalar.bat`**.
    * El instalador instalará las librerías necesarias (`sounddevice`, `pynput`, `numpy`).
